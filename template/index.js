@@ -1,6 +1,6 @@
 // PulseFeed: index.js using Currents API + PWA service worker registration
 
-const API_KEY = "EDoyIcvCTRDE2AhslSyeTZAv7rWQAQya_sGmzEWLZ7fLI6BA";
+const API_KEY = "FqGkRw_ezT02lMRA9wkzz7mESvSP9BEOXuUuX5Xbi0S2ha7Q";
 const BASE_URL = `https://api.currentsapi.services/v1/latest-news?language=en&apiKey=${API_KEY}`;
 
 let container = document.getElementById("container");
