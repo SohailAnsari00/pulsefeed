@@ -1,0 +1,21 @@
+{
+  "name": "PulseFeed",
+  "short_name": "PulseFeed",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3",
+  "description": "Stay ahead of the curve with curated tech and geopolitical news.",
+  "icons": [
+    {
+      "src": "src/icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "src/icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
